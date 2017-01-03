@@ -1,5 +1,4 @@
-# [am-i-life-yet](
-https://lifestatus.herokuapp.com/)
+# (https://lifestatus.herokuapp.com/)[am-i-life-yet]
 creepy , but might feed my paranoid fears :P
 
 Larger paranoya than Data security for me is that , when I'll be unlinked* data/things that need to be hidden will be too open , but data that I would not share while I'm linked , but I would like to share in case of my unlinking* would be inaccessible. 
