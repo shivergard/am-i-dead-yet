@@ -9,3 +9,10 @@ Definetly problems I see
 ** It must validate my status on trustfull sources ** , so it would not make ... unacceptable actions while I'm linked. So guess it must work on crowd approved approach. That certaint % trustfull people confirm my unexistance.
 
 ** It must be stored on costLess enviroment** , so I'll make it as a Heroku webservice.
+
+##Process
+It will have a list of trustfull services and people. If couple of services or one person initalizes concernes , script will ask:
+
+[A] me , am I ok.
+[B] b if I am not avaliable , then ask trustFul persons [by email and phone]
+[C] if large % confirms unexistance , then for a month it waits a concerne recall , or if month is over it processes external hidden logic
